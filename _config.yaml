@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: huhjina
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Health and Happiness Design Lab
+subtitle: HCI@Stevens | Human-computer interaction, social computing, health informatics
+description: We study people, understand people's needs, and foster social connectedness to improve health through emerging technology.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@huhjina.com
+  email: jhuhyoo@stevens.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: huhjina
-  twitter: huhjina
-  youtube: huhjina
+  github: https://huhjina.github.io/personal/
+  twitter: @dr_jinahuhyoo
+  #youtube: huhjina
 
 ### jekyll settings
 
