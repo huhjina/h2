@@ -34,7 +34,7 @@ Every year, we have multiple papers and work-in-progress presentations at CHI an
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are working on generating design solutions for multiple health spaces, spanning from youth and young adult mental health to parenting of young children, social isolation of older adults, and informal caregivers of chronically ill individuals. We are exploring how emerging technology (e.g., large language models) can contribute to those solutions.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab consists of people from diverse backgrounds, all fascinated by the idea that technology can contribute to solving the world's important problems.
 
 {%
   include button.html
