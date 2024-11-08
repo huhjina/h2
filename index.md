@@ -1,9 +1,9 @@
 ---
 ---
 
-# huhjina's Website
+# Welcome to H2DesignLab at HCI@Stevens!
 
-An engaging 1-3 sentence description of your lab.
+We believe multidisciplinarity and creativity are the key to strong HCI, social computing, and health informatics research. Therefore, we are a group of people with various backgrounds--art & design, information and computer sciences, psychology, and statistics (and more coming)--and we collaborate with a wide array of people with interests and expertise in medicine, nursing, clinical psychology, and public health with the same aim--How can we use advancing technology to support health? 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Every year, we have multiple papers and work-in-progress presentations at CHI and CSCW (and sometimes AMIA).
 
 {%
   include button.html
