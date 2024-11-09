@@ -11,6 +11,7 @@ We believe multidisciplinarity and creativity are the keys to strong HCI, social
 {% endcapture %}
 
 {%
+  include feature.html
   image="images/h2_social.jpg"
   text=text
 %}
