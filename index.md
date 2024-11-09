@@ -1,5 +1,4 @@
 ---
-header: "images/h2_social.jpg"
 ---
 
 # Welcome to the H2DesignLab at HCI@Stevens!
