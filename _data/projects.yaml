@@ -15,7 +15,15 @@
   description: We are developing LLM-enhanced language technologies to support problem solving therapy for caregivers of older adults living in senior living facilities. This project is in collaboration with George Demiris (UPenn), Karla Washington (Wash U St Louis), and Shadi Rezapur (Drexel University).
   repo: greenelab/lab-website-template
   tags:
-    
+
+- title: Using AI to help help-givers--helping youth peers to help their friends online
+  subtitle: Understand how youth communicate through online privately and publicly to maintain peer support and provide novel solutions to support crisis moments.
+  group: featured
+  image: images/peer.jpg
+  link: https://dl.acm.org/doi/pdf/10.1145/3544548.3581233
+  description: We are analyzing donated private-social media messages among youth and large scale surveys on perceptions toward how AI can help give support to help-givers.
+  repo: greenelab/lab-website-template
+  tags:
 
 - title: Cool Tutorial
   subtitle: a subtitle
