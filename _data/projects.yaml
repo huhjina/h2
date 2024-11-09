@@ -1,12 +1,16 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title:  DURAIS : A Platform for Co-Designing and Understanding the Roles of Conversational Artificial Intelligence Systems on Caregiving
+  subtitle: Research on designing and evaluating the role of large language models (LLMs) on supporting caregiving
   group: featured
-  image: images/photo.jpg
+  image: images/durais.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 5-year NSF funded research on conducting formative studies, participatory design, and LLM experiments to co-design novel language technologies to support caregiving.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - LLM
+    - dementia
+    - parenting
+    - participatory design
+    - Role of AI
 
 - title: Cool Package
   subtitle: a subtitle
