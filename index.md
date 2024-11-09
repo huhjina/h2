@@ -26,7 +26,7 @@ Every year, we have multiple papers and work-in-progress presentations at CHI an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pubs.jpg"
   link="research"
   title="Our Research"
   text=text
