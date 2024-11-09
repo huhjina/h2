@@ -7,15 +7,15 @@
   repo: greenelab/lab-website-template
   tags:
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: PISCES - Supporting Caregivers Through Problem Solving Therapy Using AI-Enhanced Feedback System
+  subtitle: Examining the potential of LLMs in annotating, detecting linguistic patterns, and recommending conversational strategies.
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/pisces.jpg
+  link: https://arxiv.org/abs/2107.13115
+  description: We are developing LLM-enhanced language technologies to support problem solving therapy for caregivers of older adults living in senior living facilities. This project is in collaboration with George Demiris (UPenn), Karla Washington (Wash U St Louis), and Shadi Rezapur (Drexel University).
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    
 
 - title: Cool Tutorial
   subtitle: a subtitle
