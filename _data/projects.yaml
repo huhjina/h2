@@ -21,12 +21,12 @@
   group: featured
   image: images/youth.jpg
   link: https://dl.acm.org/doi/abs/10.1145/3563657.3596009
-  description: We argue (in-person) social connectedness as a central concern in designing social technologies. This concern has largely been overlooked. We are devising methods, tools, and paradigms to conduct design research centering on social connectedness. This project is in collaboration with Gabi Marcu (University of Michigan).
+  description: We highlight how in-person social connectedness should play a central role in designing social technologies. We devise methods, tools, and paradigms that helps HCI researchers and practitioners to foster social connectedness in their technology design. This project is in collaboration with Gabi Marcu (University of Michigan).
   repo: greenelab/lab-website-template
   tags:
 
-- title: Using AI to help help-givers--helping youth peers to help their friends online
-  subtitle: Understand how youth communicate through online privately and publicly to maintain peer support and provide novel solutions to support crisis moments.
+- title: Using AI to help help-givers--supporting youth's peer support during crisis moments
+  subtitle: Understand how youth communicate through online privately and publicly, and the results inform how online peer support can be better supported through novel AI solutions.
   group: featured
   image: images/peer.jpg
   link: https://dl.acm.org/doi/pdf/10.1145/3544548.3581233
