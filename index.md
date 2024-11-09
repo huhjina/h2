@@ -4,7 +4,16 @@ header: "images/h2_social.jpg"
 
 # Welcome to the H2DesignLab at HCI@Stevens!
 
+{% capture text %}
+
 We believe multidisciplinarity and creativity are the keys to strong HCI, social computing, and health informatics research. Therefore, we are a group of people with various backgrounds—art and design, information and computer sciences, psychology, and statistics (and more coming)—and we collaborate with a wide array of people with interests and expertise in medicine, nursing, clinical psychology, and public health with the same aim: How can we use advancing technology to support health? 
+
+{% endcapture %}
+
+{%
+  image="images/h2_social.jpg"
+  text=text
+%}
 
 {% include section.html %}
 
