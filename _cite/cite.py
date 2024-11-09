@@ -28,7 +28,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid"]
+plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 
 # loop through plugins
 for plugin in plugins:
