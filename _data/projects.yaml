@@ -21,20 +21,18 @@
   group: featured
   image: images/peer.jpg
   link: https://dl.acm.org/doi/pdf/10.1145/3544548.3581233
-  description: We are analyzing donated private-social media messages among youth and large scale surveys on perceptions toward how AI can help give support to help-givers.
+  description: We are analyzing donated private-social media messages among youth and large scale surveys on perceptions toward how AI can help give support to help-givers. This project is in collaboration with Afsaneh Razi (Drexel University).
   repo: greenelab/lab-website-template
   tags:
 
-- title: Cool Tutorial
+- title: Youth Village - Supporting Youth Mental Health Through a Novel Design Framework on Centering Social Connectedness.
   subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/youth.jpg
+  link: https://dl.acm.org/doi/abs/10.1145/3563657.3596009
+  description: We argue (in-person) social connectedness as a central concern in designing social technologies. This concern has largely been overlooked. We are devising methods, tools, and paradigms to conduct design research centering on social connectedness. This project is in collaboration with Gabi Marcu (University of Michigan).
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
-
+  
 - title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
