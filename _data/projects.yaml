@@ -1,5 +1,5 @@
 - title:  DURAIS - A Platform for Co-Designing and Understanding the Roles of Conversational Artificial Intelligence Systems on Caregiving
-  subtitle: Research on designing and evaluating the role of large language models (LLMs) on supporting caregiving
+  subtitle: Designing and evaluating the role of large language models (LLMs) on supporting caregiving
   group: featured
   image: images/durais.jpg
   link: https://drexel.edu/cci/stories/jina-huh-yoo-wins-nsf-career-award-to-investigate-role-of-conversational-ai-systems-for-caregiving/
@@ -17,7 +17,7 @@
   tags:
 
 - title: Youth Village - Supporting Youth Mental Health Through a Novel Design Framework on Centering Social Connectedness.
-  subtitle: a subtitle
+  subtitle: Building a design framework centering social connectedness
   group: featured
   image: images/youth.jpg
   link: https://dl.acm.org/doi/abs/10.1145/3563657.3596009
@@ -26,7 +26,7 @@
   tags:
 
 - title: Using AI to help help-givers--supporting youth's peer support during crisis moments
-  subtitle: Understand how youth communicate through online privately and publicly, and the results inform how online peer support can be better supported through novel AI solutions.
+  subtitle: Understanding how youth communicate through online privately and publicly and building novel AI solutions to support peer helpers
   group: featured
   image: images/peer.jpg
   link: https://dl.acm.org/doi/pdf/10.1145/3544548.3581233
@@ -34,7 +34,7 @@
   repo: greenelab/lab-website-template
   tags:
 
-
+# more
   
 - title: Cool Web App
   subtitle: a subtitle
