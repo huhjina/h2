@@ -78,19 +78,19 @@ for plugin in plugins:
                 continue
 
             # loop through sources
-            for source in expanded:
-                if plugin.stem != "sources":
-                    log(label(source), 3)
+            #for source in expanded:
+            #    if plugin.stem != "sources":
+            #        log(label(source), 3)
 
                 # include meta info about source
-                source["plugin"] = plugin.name
-                source["file"] = file.name
+            #    source["plugin"] = plugin.name
+            #    source["file"] = file.name
 
                 # add source to compiled list
-                sources.append(source)
+            #    sources.append(source)
 
-            if plugin.stem != "sources":
-                log(f"{len(expanded)} source(s)", 3)
+            #if plugin.stem != "sources":
+            #    log(f"{len(expanded)} source(s)", 3)
 
 
 log("Merging sources by id")
