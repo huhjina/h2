@@ -49,7 +49,7 @@ We develop and evaluate design solutions for multiple health spaces, spanning fr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Our lab consists of people from diverse backgrounds, all fascinated by the idea 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
