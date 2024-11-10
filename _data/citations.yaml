@@ -943,19 +943,17 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e024/10521380/cfe3372ab81c/nihms-1930526-f0001.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1093/geroni/igac059.1003
+  title: UNDERSTANDING THE UNIQUE NEEDS OF VULNERABLE OLDER ADULTS IN A COMMUNITY-BASED
+    TELEHEALTH PROGRAM
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Melody Schiaffino
+  - Zhan Zhang
+  - Pratik Chaudhari
+  - Jina Huh-Yoo
+  publisher: Innovation in Aging
+  date: '2022-11-01'
+  link: https://doi.org/g6hhtm
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/innovateage/Issue/8/10/10/cover.jpeg?Expires=1734265110&Signature=gYfv47ZvDQ-h4kWcC--rSwayRhIVF1ex3lTgniasafRqgZ5GEr4lkO4VZE6wTJwX5Z1G~eIQG9WFeEJBLCZfPjMFBq12gd-IS0eoDM3qUFkRNBPTngFdCEKIY8sWqz6BaUeCKM~euuNy2ViHgnccgTHF9boAjLQD63rnt56n8JcpSyumgIwURQFmzSqTSp1du0uAYaQvZ~zOWtibKs4Zfo8HrB0rYioDtf8ZW4COo60MoY8LFUtKBWz6TOzagfJxLvZAqqf0F7M5K072fV1IUEbzaVmCav0jF2Vmm-RuShEL-pk7RNVjw1tMDDnTqi7biRd8bQ-~tEPAr86RL3IdsA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
