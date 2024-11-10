@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-We believe multidisciplinarity and creativity are the keys to strong HCI, social computing, and health informatics research. Therefore, we are a group of people with various backgrounds—art and design, information and computer sciences, psychology, and statistics (and more coming)—and we collaborate with a wide array of people with interests and expertise in medicine, nursing, clinical psychology, and public health with the same aim: How can we use advancing technology to support health? 
+We believe multidisciplinarity and creativity are the keys to strong HCI, social computing, and health informatics research. We consist of individuals with various backgrounds—art and design, information and computer sciences, psychology, and statistics (and more coming)—and we collaborate with people with a wide array of interests and expertise in medicine, nursing, clinical psychology, and public health with the same aim: How can we use advancing technology to support health? 
 
 {% endcapture %}
 
@@ -21,7 +21,7 @@ We believe multidisciplinarity and creativity are the keys to strong HCI, social
 
 {% capture text %}
 
-Every year, we have multiple papers and work-in-progress presentations at CHI and CSCW (and sometimes AMIA).
+Every year, we have multiple papers and work-in-progress presentations at ACM CHI and CSCW and related SIGCHI conferences (and sometimes AMIA).
 
 {%
   include button.html
@@ -44,7 +44,7 @@ Every year, we have multiple papers and work-in-progress presentations at CHI an
 
 {% capture text %}
 
-We develop and evaluate design solutions for multiple health spaces, spanning from youth and young adult mental health to parenting of young children, social isolation of older adults, and informal caregivers of chronically ill individuals. We study how emerging technology (e.g., large language models) can contribute to those solutions.
+We develop and evaluate design solutions for multiple health spaces, spanning from youth and young adult mental health to parenting of young children, social isolation of older adults, and to informal caregivers of chronically ill individuals. We study how emerging technology (e.g., large language models, mobile and wireless technology) can contribute to those solutions.
 
 {%
   include button.html
@@ -69,7 +69,7 @@ We develop and evaluate design solutions for multiple health spaces, spanning fr
 
 {% capture text %}
 
-Our lab consists of people from diverse backgrounds, all fascinated by the idea that technology can contribute to solving the world's important problems.
+Our lab consists of people from diverse backgrounds, all fascinated by the idea that technology can play a positive role in solving the world's important problems.
 
 {%
   include button.html
