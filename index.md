@@ -84,7 +84,7 @@ Our lab consists of people from diverse backgrounds, all fascinated by the idea 
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/chi24.jpg"
   link="team"
   title="Our Team"
   text=text
