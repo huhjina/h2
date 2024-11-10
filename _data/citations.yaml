@@ -160,23 +160,6 @@
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.2196/preprints.46949
-  title: 'Mobile Technologies for Supporting Mental Health in Youths: Scoping Review
-    of Effectiveness, Limitations, and Inclusivity (Preprint)'
-  authors:
-  - Shannon Grace Litke
-  - Annie Resnikoff
-  - Ashley Anil
-  - Meredith Montgomery
-  - Rishabh Matta
-  - Jina Huh-Yoo
-  - Brian P Daly
-  publisher: JMIR Publications Inc.
-  date: '2023-03-02'
-  link: https://doi.org/g8qf47
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.2196/38525
   title: 'Design and Evaluation Challenges of Conversational Agents in Health Care
     and Well-being: Selective Review Study'
@@ -228,73 +211,6 @@
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.2196/preprints.41448
-  title: 'Elderly or Older Adults? Examining Public Awareness on Ageist Terms on Twitter:
-    Content Analysis of Twitter (Preprint)'
-  authors:
-  - Emily Schramm
-  - Chris Yang
-  - Chia-Hsuan Chang
-  - Kristine Mulhorn
-  - Shushi Yoshinaga
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2022-07-27'
-  link: https://doi.org/g8qf49
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.38908
-  title: 'MICA: Motivational Interviewing Conversational Agent for Parents as Proxies
-    for their Children in Healthy Eating (Preprint)'
-  authors:
-  - Diva Smriti
-  - Tsui-Sui Annie Kao
-  - Rahil Rathod
-  - Ji Youn Shin
-  - Wei Peng
-  - Jake Williams
-  - Munif Ishad Mujib
-  - Meghan Colosimo
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2022-04-21'
-  link: https://doi.org/g8qf5b
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.38525
-  title: Design and Evaluation Challenges of Conversational Agents in Healthcare and
-    Wellbeing (Preprint)
-  authors:
-  - Ahmet Baki Kocaballi
-  - Emre Sezgin
-  - Leigh Clark
-  - John M. Carroll
-  - Yungui Huang
-  - Jina Huh-Yoo
-  - Junhan Kim
-  - Rafal Kocielnik
-  - Yi-Chieh Lee
-  - Lena Mamykina
-  - Elliot G. Mitchell
-  - Robert J. Moore
-  - Prasanth Murali
-  - Elizabeth D. Mynatt
-  - Sun Young Park
-  - Alessandro Pasta
-  - Deborah Richards
-  - Lucas M. Silva
-  - Diva Smriti
-  - Brendan Spillane
-  - Zhan Zhang
-  - Tamara Zubatiy
-  publisher: JMIR Publications Inc.
-  date: '2022-04-06'
-  link: https://doi.org/g8qf5c
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.2196/31944
   title: 'Seeking Mental Health Support Among College Students in Video-Based Social
     Media: Content and Statistical Analysis of YouTube Videos'
@@ -305,19 +221,6 @@
   publisher: JMIR Formative Research
   date: '2021-11-11'
   link: https://doi.org/g8qf5d
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.31944
-  title: 'Seeking Mental Health Support Among College Students in Video-Based Social
-    Media: Content and Statistical Analysis of YouTube Videos (Preprint)'
-  authors:
-  - Bogeum Choi
-  - Heejun Kim
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2021-07-09'
-  link: https://doi.org/g8qf5f
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
@@ -334,6 +237,23 @@
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2196/21733
+  title: 'Improving Heart Disease Risk Through Quality-Focused Diet Logging: Pre-Post
+    Study of a Diet Quality Tracking App'
+  authors:
+  - Bum Chul Kwon
+  - Courtland VanDam
+  - Stephanie E Chiuve
+  - Hyung Wook Choi
+  - Paul Entler
+  - Pang-Ning Tan
+  - Jina Huh-Yoo
+  publisher: JMIR mHealth and uHealth
+  date: '2020-12-23'
+  link: https://doi.org/g8qf5h
+  orcid: 0000-0001-5811-9256
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2196/24021
   title: 'Videoconferencing-Based Telemental Health: Important Questions for the COVID-19
     Era From Clinical and Patient-Centered Perspectives'
@@ -344,60 +264,6 @@
   publisher: JMIR Mental Health
   date: '2020-12-08'
   link: https://doi.org/gjft4g
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.24021
-  title: 'Videoconferencing-Based Telemental Health: Important Questions for the COVID-19
-    Era From Clinical and Patient-Centered Perspectives (Preprint)'
-  authors:
-  - Emil Chiauzzi
-  - Ashley Clayton
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2020-09-07'
-  link: https://doi.org/g8qf5j
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.21733
-  title: 'Improving Heart Disease Risk Through Quality-Focused Diet Logging: Pre-Post
-    Study of a Diet Quality Tracking App (Preprint)'
-  authors:
-  - Bum Chul Kwon
-  - Courtland VanDam
-  - Stephanie E Chiuve
-  - Hyung Wook Choi
-  - Paul Entler
-  - Pang-Ning Tan
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2020-06-23'
-  link: https://doi.org/g8qf5k
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.19980
-  title: 'Consumer Health Informatics Research: A Scoping Review of Informatics, Information
-    Science and Engineering Literature (Preprint)'
-  authors:
-  - Catherine Arnott Smith
-  - Deahan Yu
-  - Juan Fernando Maestre
-  - Uba Backonja
-  - Andrew Boyd
-  - Lorraine Buis
-  - Beenish Chaudhry
-  - Jina Huh-Yoo
-  - Syed Ali Hussain
-  - Lenette Jones
-  - Albert Lai
-  - Charles Senteio
-  - Katie Siek
-  - Tiffany Veinot
-  publisher: JMIR Publications Inc.
-  date: '2020-05-07'
-  link: https://doi.org/g8qf5m
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
@@ -413,23 +279,6 @@
   publisher: JMIR Formative Research
   date: '2020-03-05'
   link: https://doi.org/gm4mmf
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.01.30.926634
-  title: 'Improving Heart disease risk through quality-focused diet logging: pre-post
-    study of a diet quality tracking app'
-  authors:
-  - Courtland VanDam
-  - Bum Chul Kwon
-  - Stephanie Chiuve
-  - Hyung-Wook Choi
-  - Paul Entler
-  - Pang-Ning Tan
-  - Jina Huh-Yoo
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-01-30'
-  link: https://doi.org/gk2r3c
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
@@ -524,21 +373,6 @@
     Technologies for Healthcare
   date: '2020-05-18'
   link: https://doi.org/grmf7s
-  orcid: 0000-0001-5811-9256
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2196/preprints.15962
-  title: "Understanding Students\u2019 Mental Well-Being Challenges on a University\
-    \ Campus: Interview Study (Preprint)"
-  authors:
-  - Sun Young Park
-  - Nazanin Andalibi
-  - Yikai Zou
-  - Siddhant Ambulkar
-  - Jina Huh-Yoo
-  publisher: JMIR Publications Inc.
-  date: '2019-08-21'
-  link: https://doi.org/g8qf5s
   orcid: 0000-0001-5811-9256
   plugin: orcid.py
   file: orcid.yaml
