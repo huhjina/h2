@@ -378,15 +378,15 @@
   file: orcid.yaml
 - id: doi:10.3233/SHTI190458
   title: 'Understanding Patient Information Needs About Their Clinical Laboratory
-    Results: A Study of Social Q&amp;amp;A Site'
+    Results: A Study of Social Q&amp;A Site'
   authors:
-  - Zhan Zhang
-  - Yu Lu
-  - Yubo Kou
-  - Danny T. Y. Wu
-  - Jina Huh-Yoo
-  - Zhe He
-  publisher: 'MEDINFO 2019: Health and Wellbeing e-Networks for All'
+  - ' Zhang Zhan'
+  - ' Lu Yu'
+  - ' Kou Yubo'
+  - ' Wu Danny T.Y.'
+  - ' Huh-Yoo Jina'
+  - ' He Zhe'
+  publisher: Studies in Health Technology and Informatics
   date: '2019-01-01'
   link: https://doi.org/g8qf5t
   orcid: 0000-0001-5811-9256
