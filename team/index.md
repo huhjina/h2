@@ -13,8 +13,21 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+<div class="team-grid" style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+  {% assign sorted_members = site.members | sort: "name" %}
+  {% for member in sorted_members %}
+    <a href="{{ member.url | relative_url }}" style="text-align: center; text-decoration: none; color: inherit; width: 150px;">
+      <div>
+        <img src="/images/{{ member.image | default: 'placeholder.jpg' }}" alt="{{ member.name }}" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin-bottom: 0.5rem;" />
+        <strong>{{ member.name }}</strong><br/>
+        {% if member.role %}
+          <span style="font-size: 0.9rem;">{{ member.role }}</span>
+        {% endif %}
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
 
 
 {% include section.html background="images/background.jpg" dark=true %}
