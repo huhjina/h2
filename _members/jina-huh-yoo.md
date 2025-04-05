@@ -4,5 +4,5 @@ role: Principal Investigator
 image: placeholder.jpg
 website: ""
 bio: ""
-layout: portrait
+layout: member
 ---
