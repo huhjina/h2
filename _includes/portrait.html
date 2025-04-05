@@ -1,8 +1,7 @@
 {% if include.lookup %}
   {% assign member = site.members 
     | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
+    | first %}
 {% else %}
   {% assign member = include %}
 {% endif %}
@@ -10,19 +9,17 @@
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
-  <a
-   <a href="{{ member.url | relative_url | xml_escape }}"
+  <a href="{{ member.url | relative_url }}" 
+     class="portrait"
+     data-style="{{ include.style }}"
+     aria-label="{{ member.name | default: 'member link' }}">
 
-    class="portrait"
-    data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" | xml_escape }}"
-  >
     {% if type %}
       {% include icon.html icon=type.icon %}
     {% endif %}
 
     <img
-      src="{{ member.image | relative_url | xml_escape }}"
+      src="{{ member.image | relative_url }}"
       class="portrait-image"
       alt="member portrait"
       loading="lazy"
