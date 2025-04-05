@@ -13,15 +13,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-<div class="team-grid">
-  {% for member in site.data.members %}
-    <div class="team-member">
-      <img src="/images/{{ member.image | default: 'placeholder.jpg' }}" alt="{{ member.name }}">
-      <h3>{{ member.name }}</h3>
-      <p>{{ member.role }}</p>
-    </div>
-  {% endfor %}
-</div>
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
