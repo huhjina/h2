@@ -4,12 +4,13 @@
     | first %}
 {% else %}
   {% assign member = include %}
+{% assign member_url = member.url | relative_url %}
 {% endif %}
 
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
-  <a href="{{ member.url | relative_url }}" 
+  <a href="{{ member_url }}"
      class="portrait"
      data-style="{{ include.style }}"
      aria-label="{{ member.name | default: 'member link' }}">
