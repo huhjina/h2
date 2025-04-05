@@ -1,74 +1,75 @@
 - name: Jina Huh-Yoo
   role: pi
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Lu Wang
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Duncan Lynch
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Adithya Ganesh
-  image: 
+  role: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Adi Kumaran
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Archiit Rajanala
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Simran V
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Ananya Shrivastava
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Kalyn Thies
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Max Song
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Kefan Xu
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Veena Calambur
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Jo Nam
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Hao Yuan
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
 - name: Diva Smitri
   role: 
-  image: 
+  image: placeholder.jpg
   website: 
   bio: 
