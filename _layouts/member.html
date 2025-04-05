@@ -2,50 +2,19 @@
 layout: default
 ---
 
-{% capture floatcontent %}
+<div class="member-profile" style="text-align: center; max-width: 600px; margin: 0 auto;">
+  <img src="/images/{{ page.image }}" alt="{{ page.name }}" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-bottom: 1rem;" />
 
-{% include portrait.html lookup=page.slug %}
+  <h1>{{ page.name }}</h1>
+  {% if page.role %}
+    <p><strong>Role:</strong> {{ page.role }}</p>
+  {% endif %}
 
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
+  {% if page.bio %}
+    <p style="margin: 1.5rem 0;">{{ page.bio }}</p>
+  {% endif %}
+
+  {% if page.website %}
+    <p><a href="{{ page.website }}" target="_blank">Visit Personal Website</a></p>
+  {% endif %}
 </div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-{{ content }}
-
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
-
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
-
-<p class="center">
-  <a href="{{ search | relative_url | xml_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!--
-<p class="center">
-  <a href="{{ search | relative_url | xml_escape }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
