@@ -3,7 +3,12 @@
     | where_exp: "member", "member.slug == include.lookup"
     | first %}
 {% else %}
+  {% if include.member %}
+  {% assign member = include.member %}
+{% else %}
   {% assign member = include %}
+{% endif %}
+
 {% assign member_url = member.url | relative_url %}
 {% endif %}
 
