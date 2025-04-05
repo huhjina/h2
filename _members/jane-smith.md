@@ -1,11 +1,8 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Jina Huh-Yoo
+image: images/placeholder.jpg
 role: pi
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: Stevens Institute of Technology
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
