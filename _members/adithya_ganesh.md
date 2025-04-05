@@ -1,6 +1,6 @@
 ---
 name: Adithya Ganesh
-slug: adithya-ganesh.md
+slug: adithya-ganesh
 role: ""
 image: placeholder.jpg
 website: ""
