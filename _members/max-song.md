@@ -6,4 +6,6 @@ image: placeholder.jpg
 website: ""
 bio: ""
 layout: member
+permalink: /members/max-song/
+
 ---
