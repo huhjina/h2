@@ -1,6 +1,6 @@
 ---
 name: Adi Kumaran
-slug: adi-kumaran.md
+slug: adi-kumaran
 role: ""
 image: placeholder.jpg
 website: ""
