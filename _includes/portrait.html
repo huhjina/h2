@@ -11,9 +11,8 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url | xml_escape }}"
-    {% endif %}
+   <a href="{{ member.url | relative_url | xml_escape }}"
+
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | xml_escape }}"
