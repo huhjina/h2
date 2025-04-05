@@ -3,9 +3,14 @@ layout: default
 ---
 
 <div class="member-profile" style="text-align: center; max-width: 600px; margin: 0 auto;">
-  <img src="/images/{{ page.image }}" alt="{{ page.name }}" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-bottom: 1rem;" />
+  <img 
+    src="{{ page.image | relative_url }}" 
+    alt="{{ page.name }}" 
+    style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-bottom: 1.5rem; box-shadow: 0 2px 10px rgba(0,0,0,0.05);" 
+  />
 
-  <h1>{{ page.name }}</h1>
+  <h1 style="margin-bottom: 0.5rem;">{{ page.name }}</h1>
+
   {% if page.role %}
     <p><strong>Role:</strong> {{ page.role }}</p>
   {% endif %}
@@ -15,6 +20,6 @@ layout: default
   {% endif %}
 
   {% if page.website %}
-    <p><a href="{{ page.website }}" target="_blank">Visit Personal Website</a></p>
+    <p><a href="{{ page.website }}" target="_blank" rel="noopener">Visit Personal Website</a></p>
   {% endif %}
 </div>
