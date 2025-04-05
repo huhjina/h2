@@ -27,4 +27,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 <!-- Trigger rebuild -->
+git commit --allow-empty -m "Trigger rebuild"
+git push
 
