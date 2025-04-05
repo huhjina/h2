@@ -2,16 +2,13 @@
   {% assign member = site.members 
     | where_exp: "member", "member.slug == include.lookup"
     | first %}
-{% else %}
-  {% if include.member %}
+{% elsif include.member %}
   {% assign member = include.member %}
 {% else %}
   {% assign member = include %}
 {% endif %}
 
 {% assign member_url = member.url | relative_url %}
-{% endif %}
-
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
