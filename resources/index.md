@@ -8,11 +8,28 @@ nav:
 ---
 
 <style>
+/* Make the intro text larger and cleaner */
+.resource-intro {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.7;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  color: #333;
+  text-align: center;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Full-width responsive layout */
 .resource-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
-  margin-top: 2rem;
+  padding: 0 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 @media (min-width: 768px) {
@@ -21,38 +38,43 @@ nav:
   }
 }
 
+/* Card styling */
 .resource-card {
   border: 1px solid #ddd;
   border-radius: 16px;
-  padding: 1.5rem 2rem;
+  padding: 1.75rem 2rem;
   background-color: #fdfdfd;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
   transition: box-shadow 0.3s ease;
 }
 
 .resource-card:hover {
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
 }
 
+/* Card title */
 .resource-title {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.6rem;
   display: flex;
   align-items: center;
 }
 
 .resource-title span {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   margin-right: 0.6rem;
 }
 
+/* Card body */
 .resource-desc {
-  margin-bottom: 1rem;
-  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
   line-height: 1.6;
+  color: #444;
 }
 
+/* Link */
 .resource-link a {
   font-weight: 600;
   color: #007acc;
@@ -64,7 +86,9 @@ nav:
 }
 </style>
 
-Welcome to the Resources section. Below you'll find curated materials and internal tools for our lab's academic and technical needs.
+<div class="resource-intro">
+  Welcome to the Resources section. Below you’ll find curated materials and internal tools for our lab’s academic and technical needs.
+</div>
 
 <div class="resource-grid">
 
