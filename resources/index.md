@@ -7,6 +7,7 @@ nav:
   tooltip: Useful links and tools
 ---
 
+<div class="content">
 <style>
 /* Make the intro text larger and cleaner */
 .resource-intro {
@@ -118,5 +119,7 @@ nav:
     </div>
     <div class="resource-link"><a href="irb">Go to IRB →</a></div>
   </div>
+
+</div>
 
 </div>
