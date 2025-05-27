@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3706599.3720004
+  title: Characterizing the Flaws of Image-Based AI-Generated Content
+  authors:
+  - Gursimran Vasir
+  - Jina Huh-Yoo
+  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
+    Factors in Computing Systems
+  date: '2025-04-25'
+  link: https://doi.org/g9mgds
+  orcid: 0000-0001-5811-9256
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3706599.3706725
+  title: 'Mobile Technology and Teens: Understanding the Changing Needs of Sociocultural
+    and Technical Landscape'
+  authors:
+  - Janghee Cho
+  - Inhwa Song
+  - Zainab Agha
+  - Bengisu Cagiltay
+  - Veena Calambur
+  - Minjin (MJ) Rheu
+  - Jina Huh-Yoo
+  publisher: Proceedings of the Extended Abstracts of the CHI Conference on Human
+    Factors in Computing Systems
+  date: '2025-04-25'
+  link: https://doi.org/g9mgdt
+  orcid: 0000-0001-5811-9256
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3613904.3641961
   title: 'A case for "little English" in Nurse Notes from the Telehealth Intervention
     Program for Seniors: Implications for Future Design and Research'
