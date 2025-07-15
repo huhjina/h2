@@ -6,5 +6,5 @@ image: placeholder.jpg
 website: ""
 bio: ""
 layout: member
-image: images/ananya-shrivastava.png
+image: /images/ananya-shrivastava.png
 ---
