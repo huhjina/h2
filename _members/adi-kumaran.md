@@ -6,5 +6,5 @@ image: placeholder.jpg
 website: ""
 bio: ""
 layout: member
-image: images/adi-kumaran.png
+image: /images/adi-kumaran.png
 ---
