@@ -6,4 +6,5 @@ image: placeholder.jpg
 website: ""
 bio: ""
 layout: member
+image: /images/lu-wang.png
 ---
