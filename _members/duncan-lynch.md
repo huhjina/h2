@@ -1,9 +1,10 @@
 ---
 name: Duncan Lynch
 slug: duncan-lynch
-role: ""
+role: Undergraduate Research Assistant
 image: placeholder.jpg
 website: ""
-bio: ""
+bio: Currently working on AnnoLoom
+short_description: Currently working on AnnoLoom
 layout: member
 ---
