@@ -5,9 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is an interdisciplinary team coming from computer science, electrical engineering, design, psychology, data science, and many other areas core to the field of human-computer interaction. 
 
 <div class="portrait-list">
   {% assign sorted_members = site.members | sort: "name" %}
