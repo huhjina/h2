@@ -30,7 +30,7 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - users: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: setup Ruby
         uses: ruby/setup-ruby@v1
