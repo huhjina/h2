@@ -17,9 +17,23 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    permissions: 
+      contents: read
 
     steps:
+      - uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with: 
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Install deps
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Build
+        run: bundle exec jekyll build --trace
+
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
 
