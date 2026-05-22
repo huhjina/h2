@@ -25,7 +25,7 @@ Our lab is located in Gateway South Room 328. We also have regular meet ups sche
   include button.html
   type="website"
   text="Reading Group Agenda"
-  link="ReadingGroup.html"
+  link="https://luwang823.github.io/ReadingGroup.html"
 %}
 {%
   include button.html
