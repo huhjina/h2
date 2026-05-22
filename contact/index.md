@@ -36,6 +36,7 @@ Our lab is located in Gateway South Room 328. We also have regular meet ups sche
   include figure.html
   image="images/flyer.jpg"
   caption="Flyer for HCI@Stevens"
+  link="ReadingGroup.html"
 %}
 
 {% endcapture %}
